@@ -16,7 +16,7 @@ public class DemoApplication {
 
     public static void main(String[] args) {
 
-        System.out.println("--------启动springboot-demo项目了---------");
+        System.out.println("--------测试启动springboot-demo项目---------");
         SpringApplication.run(DemoApplication.class, args);
     }
 
